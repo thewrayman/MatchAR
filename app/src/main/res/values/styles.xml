@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="scrollbarPost">
+        <item name="android:background">#ffffff</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_width">65dp</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+</resources>

@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:icon="@drawable/ic_action_settings"
+        android:orderInCategory="100" android:showAsAction="never" />
+
+    <item android:id="@+id/action_logout"
+        android:title="Log Out"
+        android:orderInCategory="101"/>
+
+    <item android:id="@+id/action_credits"
+        android:title="Credits"
+        android:orderInCategory="102"/>
+
+    <item android:id="@+id/action_My_acccount"
+        android:title="My Account"
+        android:orderInCategory="99"/>
+
+    <item android:id="@+id/action_post_message"
+        android:icon="@drawable/ic_action_chat"
+        android:title="Post"
+        android:showAsAction="ifRoom"
+        />
+    <item android:id="@+id/action_camera_view"
+        android:icon="@drawable/ic_action_camera"
+        android:title="Camera Search"
+        android:showAsAction="ifRoom"
+        />
+
+
+
+
+
+</menu>
