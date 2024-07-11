@@ -1,2 +1,2 @@
 # MatchAR
-University Android project
+Augmented reality android app
